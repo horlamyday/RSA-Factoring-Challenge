@@ -1,2 +1,2 @@
 # RSA-Factoring-Challenge
-BY: Erick Saddam
+BY: dantech
